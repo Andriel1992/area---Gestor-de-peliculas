@@ -1,0 +1,36 @@
+.margen-botton-2{
+    margin-bottom: 2%;
+}
+
+.margen-top {
+    margin-top: 2%;
+}
+
+.margin-top-3 {
+    margin-top: 3%;
+}
+
+.margin-top-8 {
+    margin-top: 8%;
+}
+
+
+.validate-error {
+    border-color: red;
+    /* border-right-color: blueviolet; */
+    border-width: medium;
+}
+
+.margen-izq-2{
+    margin-left: 2%;
+}
+
+.float-end{
+    float: right;
+}
+
+.input-error{
+    border-color: red;
+    border-width: medium;
+
+}
